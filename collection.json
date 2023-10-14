@@ -1,7 +1,7 @@
 {
-  "name": "Numbers Collection",
-  "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain.",
+  "name": "SuperMeet Collection",
+  "symbol": "SM",
+  "description": "Collection of SuperMeet NFTs",
   "image": "collection.png",
   "attributes": [],
   "properties": {

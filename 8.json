@@ -1,20 +1,20 @@
 {
-  "name": "Number #0009",
-  "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain. This is the number 9/10.",
-  "image": "8.png",
-  "attributes": [
-    {
-      "trait_type": "Number",
-      "value": "9"
+    "name": "Matrix Renegade",
+    "symbol": "SM",
+    "description": "Collection of SuperMeet NFTs",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Matrix Renegade"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "8.png",
-        "type": "image/png"
-      }
-    ]
-  }
 }

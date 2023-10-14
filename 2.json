@@ -1,20 +1,20 @@
 {
-  "name": "Number #0003",
-  "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain. This is the number 3/10.",
-  "image": "2.png",
-  "attributes": [
-    {
-      "trait_type": "Number",
-      "value": "3"
+    "name": "Nova Shock",
+    "symbol": "SM",
+    "description": "Collection of SuperMeet NFTs",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Nova Shock"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "2.png",
-        "type": "image/png"
-      }
-    ]
-  }
 }

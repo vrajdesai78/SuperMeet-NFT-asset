@@ -1,20 +1,20 @@
 {
-  "name": "Number #0007",
-  "symbol": "NB",
-  "description": "Collection of 10 numbers on the blockchain. This is the number 7/10.",
-  "image": "6.png",
-  "attributes": [
-    {
-      "trait_type": "Number",
-      "value": "7"
+    "name": "Holo Phantom",
+    "symbol": "SM",
+    "description": "Collection of SuperMeet NFTs",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Name",
+            "value": "Holo Phantom"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "6.png",
-        "type": "image/png"
-      }
-    ]
-  }
 }
